@@ -21,8 +21,8 @@ public class ActMvc {
             ac.addActeur(act);
         }
         ac.afficheActeurs();
-//        ac.afficheActeur(2);
-   //     acteurDAO.insertActeur(new Acteur("Brando","Marlon","brando.jpg"));
+       ac.afficheActeur(2);
+   //    acteurDAO.insertActeur(new Acteur("Brando","Marlon","brando.jpg"));
 //        Acteur act = new Acteur() ;
 //        act = ActeurDAO.insertActeur(2);
 //        System.out.println(act.getNom());
